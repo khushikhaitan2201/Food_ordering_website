@@ -10,7 +10,7 @@ It is a sleek and responsive food ordering website crafted with HTML, CSS, and J
 - Responsive Design – Works smoothly on desktops, tablets, and mobiles.  
 - Smooth Animations – Enhances user experience with subtle effects.  
 
- 📂 Tech Stack  
+ 📂 Tech Stack
 - HTML – Structuring the website.  
 - CSS – Styling with modern design trends.  
 - JavaScript – Adding interactivity and functionality.  
