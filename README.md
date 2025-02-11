@@ -15,14 +15,6 @@ It is a sleek and responsive food ordering website crafted with HTML, CSS, and J
 - CSS – Styling with modern design trends.  
 - JavaScript – Adding interactivity and functionality.  
 
- 🚀 How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/foodiebite.git
-   ```  
-2. Open `index.html` in a browser.  
-3. Explore the menu, add items to the cart, and enjoy the smooth ordering experience!  
-
  📌 Future Enhancements  
 - Backend integration for real-time order processing.  
 - User authentication and order history.  
